@@ -5,6 +5,7 @@ extension BinaryInteger{
 }
 //
 //
+/*
 func sumOfNumber(_ number: [Int]) -> (Int, Bool){
     let squares = number.map { $0 * $0}
     print("squares\(squares)")
@@ -17,6 +18,7 @@ func sumOfNumber(_ number: [Int]) -> (Int, Bool){
     }
 
 }
+*/
 //
 var checkDuplicate : [Int] = []
 
