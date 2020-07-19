@@ -5,18 +5,20 @@ extension BinaryInteger{
 }
 //
 //
-//func sumOfNumber(_ number: [Int]) -> (Int, Bool){
-//    let squares = number.map { $0 * $0}
-//    print("squares\(squares)")
-//    let newNumber = squares.reduce(0, +)
-//    print(newNumber)
-//    if newNumber > 1{
-//        return (newNumber, false)
-//    }else{
-//        return (newNumber, true)
-//    }
-//
-//}
+/*
+func sumOfNumber(_ number: [Int]) -> (Int, Bool){
+    let squares = number.map { $0 * $0}
+    print("squares\(squares)")
+    let newNumber = squares.reduce(0, +)
+    print(newNumber)
+    if newNumber > 1{
+        return (newNumber, false)
+    }else{
+        return (newNumber, true)
+    }
+
+}
+*/
 //
 var checkDuplicate : [Int] = []
 
